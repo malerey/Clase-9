@@ -1,0 +1,50 @@
+.estructura-principal {
+  background-color: red;
+  display: flex;
+}
+
+.contenido {
+  background-color: blue;
+  width: 80%;
+}
+
+aside {
+  background-color: green;
+  width: 20%;
+}
+
+header {
+  background-color: pink;
+  height: 33%;
+}
+
+
+section {
+  background-color: violet;
+  height: 500px;
+}
+
+footer {
+  background-color: gray;
+  height: 300px;
+}
+
+.devicon-cucumber-plain {
+  font-size: 60px;
+  color: orange;
+}
+
+.devicon-debian-plain {
+  font-size: 60px;
+  color: #000000
+}
+
+.redes-sociales {
+  display: flex;
+  justify-content: center;
+}
+
+.fa-facebook {
+  font-size: 300px;
+  color: palevioletred;
+}
